@@ -2,7 +2,7 @@
 
 ## Voice controlled home automation System (IOT):
 
-| ![](image2.JPG) | 
+| ![](image 2.JPG) | 
 |:--:| 
 | **Block Diagram:** *General Bluetooth interface* |
 
