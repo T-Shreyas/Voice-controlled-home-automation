@@ -2,6 +2,10 @@
 
 ## Voice controlled home automation System (IOT):
 
+| ![](image1.JPG) | 
+|:--:| 
+| **Block Diagram:** *General Bluetooth interface* |
+
 ## Synopsis and Methodology: -
 <p align="justify"> 
 • The aim of this project is to use this IoT technology for the people of all ages, gender and even with some disability to enjoy the life in a more pleasant way. This project is designed to use the Bluetooth technology to control home utilities i.e. (light and fan). 
@@ -12,13 +16,11 @@
 
 • So basically, this is a prototype for a voice-controlled home automation system to control appliances with our voice through an Android app. An Arduino Uno board is used for controlling the relay through which one/more appliances are switched on/off. We can modify the Android app to add more functions. The application sends our voice signal command to Bluetooth which is then received by Arduino and perform the described task. </p>
 
-| ![](Images/image1.JPG) | 
-|:--:| 
-| **Block Diagram:** *Interfacing Hardware and Software* |
 
-| ![](Images/image1.JPG) | 
+
+| ![](image1.JPG) | 
 |:--:| 
-| **Block Diagram-1:** *Interfacing Hardware and Software* |
+| **Final Circuit Implimentation on Proteus simulation Software** |
 
 
 ## • Applications and Advantages: -
