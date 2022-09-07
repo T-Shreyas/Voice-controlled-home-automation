@@ -1,4 +1,4 @@
-# Voice-controlled-home-automation
+# Voice-Controlled-Home-Automation
 
 ## Voice controlled home automation System (IOT):
 
